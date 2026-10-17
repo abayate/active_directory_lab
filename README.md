@@ -1,5 +1,4 @@
-# Active_Directory_Lab
-<h1>Setup Virtual Active Directory Environment in Microsoft Azure </h1>
+<h1>Active Directory Homelab (Oracle VirtualBox)</h1>
 
 <h2>Description</h2>
 Project involved setting up Oracle VirtualBox, creating virtual machines with custom configurations, 
